@@ -1,21 +1,4 @@
-# bun-react-tailwind-template
+# bulka-test
+Just `docker-compose up` and you are good to go.
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To start a development server:
-
-```bash
-bun dev
-```
-
-To run for production:
-
-```bash
-bun start
-```
-
-This project was created using `bun init` in bun v1.2.13. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Then go to `localhost:3000` for frontend and `localhost:3000/api/hello` for hello world.
